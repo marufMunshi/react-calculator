@@ -1,0 +1,17 @@
+.footer {
+    background-color: #34495E;
+    color: white;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    p {
+        font-size: 110%;
+        a {
+            color: white;
+            margin-left: 20px;
+            word-spacing: 3px;
+        }
+    }
+}

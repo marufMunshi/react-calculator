@@ -1,0 +1,14 @@
+.header {
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2ABB9B;
+}
+
+.header__title {
+    font-size: 190%;
+    word-spacing: 3px;
+    font-weight: lighter;
+    color: white;
+}
